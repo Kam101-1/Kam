@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KamariJ101
+- 👋 Hi, I’m @Kam101
 - 👀 I’m interested in art, music, and computers.
 - 🌱 I’m currently learning the basics of coding.
 - 💞️ I’m looking to collaborate on simple projects to further my coding knowledge.
